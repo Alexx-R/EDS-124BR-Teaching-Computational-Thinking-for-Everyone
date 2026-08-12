@@ -8,4 +8,4 @@ Summer Session 2 class file (UCSD)
    https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Spiraling%20Square-Explanation.md
 
 3. Teaching Programming Portfolio - Quests - Explains the code I created for the kangaroo, the grasshopper, and the bee. 
-   
+   https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Teaching%20Programming%20Portfolio%20-%20Quests.md
