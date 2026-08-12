@@ -4,5 +4,5 @@ Summer Session 2 class file (UCSD)
 1. Show What You Know: Explain Your Program - Explains my understanding of my coding for one of the previous assignments given to me.
 [https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Show%20What%20You%20Know%3A%20Explain%20Your%20Program](https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Show%20What%20You%20Know%3A%20Explain%20Your%20Program.md)
 
-2. Show What You Know: Explain Your Program - Explains my understanding of my coding for one of the previous assignments given to us. 
+2. Spiraling Square - Explanation - Explains my understanding of my spiraling square code. 
 https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Spiraling%20Square-Explanation.md
