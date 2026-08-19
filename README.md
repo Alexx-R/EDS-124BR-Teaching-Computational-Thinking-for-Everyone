@@ -11,4 +11,4 @@ Summer Session 2 class file (UCSD)
    https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Teaching%20Programming%20Portfolio%20-%20Quests.md
 
 4. Show What You Know: Nested Repeats - Explains the code that was provided to me for the use of nested repeats.
-   
+   https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Show%20What%20You%20Know%3A%20Nested%20Repeats.md
