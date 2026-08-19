@@ -1,1 +1,2 @@
+This assignment instructed me to either select the code provided or make my own code. I chose the provided code and recreated it. I was then instructed to explain the functionality of this code, the use of nested repeats, and what would change if I were to change the nested repeat in some way. This is my take on explaining my code for creating an octagon using nested repeats.
 https://youtu.be/goFHKSZ8JrI
