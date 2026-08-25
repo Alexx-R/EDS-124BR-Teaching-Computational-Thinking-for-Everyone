@@ -21,3 +21,6 @@ https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyon
 
 7. Show What You Know: Conditional Statements - Explains the provided code for using conditional repeats and conditional statements.
    https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Show%20What%20You%20Know%3A%20Conditional%20Statements%20Explanation.md
+
+8. Show What You Know: If Statements - Explains the provided code for using if and if-else statements.
+   https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Show%20What%20You%20Know:%20If%20Statements.md
