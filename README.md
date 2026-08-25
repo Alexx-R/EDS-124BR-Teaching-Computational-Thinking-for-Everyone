@@ -18,3 +18,6 @@ https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyon
 
 6. Show What You Know: Variables - Explains the code that was provided to me for using variables.
    https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Show%20What%20You%20Know%3A%20Variables.md
+
+7. Show What You Know: Conditional Statements - Explains the provided code for using conditional repeats and conditional statements.
+   https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Show%20What%20You%20Know%3A%20Conditional%20Statements%20Explanation.md
