@@ -25,4 +25,5 @@ https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyon
 8. Show What You Know: If Statements - Explains the provided code for using if and if-else statements.
    https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Show%20What%20You%20Know:%20If%20Statements.md
 
-9. Show What You Know: Nested If/Else Statements - Explains the provided code for using nested if-else statements.
+9. Show What You Know: Nested If-Else Statements - Explains the provided code for using nested if-else statements.
+   https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Show%20What%20You%20Know%3A%20Nested%20If-Else%20Statements.md
