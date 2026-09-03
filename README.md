@@ -29,3 +29,4 @@ https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyon
    https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Show%20What%20You%20Know%3A%20Nested%20If-Else%20Statements.md
 
 10. Show What You Know: Compound Conditionals - Explains the provided code for using multiple compound conditionals within if/else statements.
+    https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Show%20What%20You%20Know%3A%20Compound%20Conditionals.md
