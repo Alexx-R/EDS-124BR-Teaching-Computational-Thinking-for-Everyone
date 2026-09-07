@@ -33,3 +33,6 @@ https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyon
 
 11. Show What You Know: Abstractions - Explains the provided code for using my own block to paint the background of the program.
     https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/edit/main/Show%20What%20You%20Know%3A%20Abstractions.md
+
+12. Show What You Know: Lists - Explains the provided code for using lists to minimize code and effectively and efficiently scan through a large list.
+    https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Show%20What%20You%20Know:%20Lists.md
