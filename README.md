@@ -30,3 +30,6 @@ https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyon
 
 10. Show What You Know: Compound Conditionals - Explains the provided code for using multiple compound conditionals within if/else statements.
     https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Show%20What%20You%20Know%3A%20Compound%20Conditionals.md
+
+11. Show What You Know: Abstractions - Explains the provided code for using my own block to paint the background of the program.
+    https://github.com/Alexx-R/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/edit/main/Show%20What%20You%20Know%3A%20Abstractions.md
